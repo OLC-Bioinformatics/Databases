@@ -1,1 +1,5 @@
 sixteens_full/** filter=lfs diff=lfs merge=lfs -text
+coregenome/** filter=lfs diff=lfs merge=lfs -text
+genesippr/** filter=lfs diff=lfs merge=lfs -text
+prophages/** filter=lfs diff=lfs merge=lfs -text
+vtyper/** filter=lfs diff=lfs merge=lfs -text
