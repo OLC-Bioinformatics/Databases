@@ -3,3 +3,8 @@ coregenome/** filter=lfs diff=lfs merge=lfs -text
 genesippr/** filter=lfs diff=lfs merge=lfs -text
 prophages/** filter=lfs diff=lfs merge=lfs -text
 vtyper/** filter=lfs diff=lfs merge=lfs -text
+coregenome.tar.gz filter=lfs diff=lfs merge=lfs -text
+genesippr.tar.gz filter=lfs diff=lfs merge=lfs -text
+prophages.tar.gz filter=lfs diff=lfs merge=lfs -text
+sixteens_full.tar.gz filter=lfs diff=lfs merge=lfs -text
+vtyper.tar.gz filter=lfs diff=lfs merge=lfs -text
