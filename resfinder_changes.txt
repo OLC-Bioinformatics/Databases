@@ -1,0 +1,7 @@
+aacA4:Aminoglycoside resistance:
+ant(3'')-Ia:Aminoglycoside resistance:
+aph(3')-VIj:Aminoglycoside resistance:
+blaIMP-58:Beta-lactam resistance:
+grmA:Aminoglycoside resistance:
+tetO:Tetracycline resistance:
+rmtf:Aminoglycoside resistance:
